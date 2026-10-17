@@ -11,27 +11,8 @@
   "icons": [
     {
       "src": "https://vaheban-ship-it.github.io/Hesab/icon.png",
-      "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any"
-    },
-    {
-      "src": "https://vaheban-ship-it.github.io/Hesab/icon.png",
-      "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "maskable"
-    },
-    {
-      "src": "https://vaheban-ship-it.github.io/Hesab/icon.png",
       "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any"
-    },
-    {
-      "src": "https://vaheban-ship-it.github.io/Hesab/icon.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "maskable"
+      "type": "image/png"
     }
   ]
 }
