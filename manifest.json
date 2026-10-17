@@ -2,7 +2,7 @@
   "name": "فروش‌یار",
   "short_name": "فروش‌یار",
   "description": "سیستم جامع حسابداری و مدیریت کسب‌وکار",
-  "start_url": "./index.html",
+  "start_url": "https://vaheban-ship-it.github.io/Hesab/index.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#0d9488",
@@ -10,22 +10,16 @@
   "lang": "fa",
   "icons": [
     {
-      "src": "icon.png",
+      "src": "https://vaheban-ship-it.github.io/Hesab/icon.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "icon.png",
+      "src": "https://vaheban-ship-it.github.io/Hesab/icon.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
-    },
-    {
-      "src": "icon.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "maskable"
     }
   ]
 }
